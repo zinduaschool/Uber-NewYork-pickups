@@ -51,7 +51,6 @@ The file `Uber-Jan-Feb-FOIL.csv` contains aggregated daily Uber trip statistics 
 
 ### Project Collaborators
 - **Douglas Kimathi:** Enter short bio | [Github](https://github.com/Douglas-Kimathi/) | [LinkedIn](https://www.linkedin.com/in/douglas-kimathi-234a281a4/)
-- **Dan Wafula:** Enter short bio | [Github]() | [LinkedIn]()
-- **Mandela  Ngatia:** Enter short bio | [Github]() | [LinkedIn]()
+- **Mandela  Ngatia:** Enter short bio | [Github](https://github.com/mandem296) | [LinkedIn](https://www.linkedin.com/in/mandelawaweru/)
 -  **Noella Mutuku:** Enter short bio | [Github](https://github.com/noella1975) | [LinkedIn](https://www.linkedin.com/in/noellamutuku?trk=contact-info)
 
